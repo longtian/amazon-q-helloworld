@@ -1,0 +1,1 @@
+- dump all environment variables for debugging purpose
