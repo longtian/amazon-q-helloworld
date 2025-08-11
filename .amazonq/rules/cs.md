@@ -1,1 +1,3 @@
 - no printf should be allowed in code
+- environment variables should have FOO in it
+- If environment variables has violation, record raw environment variables as a violation
